@@ -271,3 +271,13 @@ display: none;
 h1 {
   font-size: 15px;
 }
+
+.chrome {
+  color: white;
+  padding-left: 550px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  background: rgba(135, 216, 211, 0.85);
+}
